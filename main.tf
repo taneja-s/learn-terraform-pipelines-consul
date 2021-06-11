@@ -3,7 +3,7 @@ terraform {
     organization = "infrastructure-pipelines-workshop"
 
     workspaces {
-      name = "firstName-lastInitial-consul"
+      name = "shitiztaneja-t-consul"
     }
   }
 
